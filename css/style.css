@@ -1,0 +1,164 @@
+.body {
+    font-family: 'Tahoma', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    height: 2191px;
+    width: 1441px;
+    margin: 0 auto;
+}
+
+.container {
+    width: 1040px;
+    margin: 0 auto;
+}
+
+.header {
+    padding-top: 32px;
+    padding-bottom: 64px;
+}
+
+.header-img {
+    background-color: #343B42;
+    background-image: url(../img/christopher-campbell-40367.jpg);
+    background-position: right top;
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+}
+
+.logo {
+    width: 114px;
+    height: 18px;
+}
+
+.menu {
+    margin-top: 49px;
+    margin-bottom: 57px;
+}
+
+.menu a {
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    text-decoration: none;
+    margin-right: 40px;
+}
+
+.link {
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #FFFFFF;
+    background: #62D0DF;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 17px 50px;
+
+}
+
+.helping-head h2 {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-bottom: 46px;
+    margin-top: 10px;
+}
+
+.helping-text p {
+    font-size: 24px;
+    line-height: 140%;
+    color: #D6D6D6;
+    padding-bottom: 53px;
+    margin: 0;
+}
+
+.bottom {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+    background: #F9B640;
+    padding: 10px 50px;
+}
+
+.link-text {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.1em;
+    color: #FAB63E;
+    text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.who {
+    padding-bottom: 31px;
+}
+
+.help-you {
+    background-color: #62D0DF;
+    padding-top: 64px;
+    padding-bottom: 78px;
+}
+
+
+.help-you-head h2 {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+    color: #000000;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 0;
+    margin-bottom: 45px;
+}
+
+.help-you-text {
+
+    background-color: #C4C4C4;
+    padding: 44px 40px 9px 40px;
+
+}
+
+.help-you-text p {
+    font-size: 24px;
+    line-height: 140%;
+    color: #0B0B0B;
+    padding-bottom: 31px;
+}
+
+.help {
+    background-image: url(../img/bg-strawberry.jpg);
+    padding-top: 89px;
+    padding-bottom: 129px;
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+.help-head h2 {
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 110%;
+    color: #720E0E;
+    text-decoration: none;
+    text-transform: uppercase;
+    -webkit-text-stroke: 1px #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-top: 0;
+    margin-bottom: 62px;
+}
+
+.help-text p {
+    font-size: 24px;
+    line-height: 140%;
+    color: #FFFFFF;
+    padding-bottom: 31px;
+}
