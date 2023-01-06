@@ -1,9 +1,12 @@
+* {
+    margin: 0;
+}
 .body {
     font-family: 'Tahoma', sans-serif;
     font-style: normal;
     font-weight: normal;
-    height: 2191px;
-    width: 1441px;
+    /*height: 2191px;*/
+    /*width: 1441px;*/
     margin: 0 auto;
 }
 
